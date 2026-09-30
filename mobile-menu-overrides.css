@@ -4,7 +4,7 @@
 }
 
 .mobile-header {
-  position: fixed;
+  position: absolute;
   inset: 0 0 auto;
   z-index: 100;
   pointer-events: none;

@@ -1,0 +1,15 @@
+/* Match the Next.js About composition: heading first, centered content below. */
+.about {
+  display: block;
+  padding-top: 56px;
+  padding-bottom: 128px;
+}
+
+.about__heading {
+  margin-bottom: 48px;
+}
+
+.about__content {
+  max-width: 440px;
+  margin: 0 auto;
+}
